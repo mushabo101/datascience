@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Muhammad Saepurrohman</title>
+    <link>https://mushabo101.github.io/datascience/</link>
+    <description>Recent content in Data Science Portfolio on Muhammad Saepurrohman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Sep 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://mushabo101.github.io/datascience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>30 Days Machine Learning, Finish in Top 3% From More Than 7000 Participants</title>
+      <link>https://mushabo101.github.io/datascience/post/30-days-machine-learning-kaggle/</link>
+      <pubDate>Wed, 01 Sep 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://mushabo101.github.io/datascience/post/30-days-machine-learning-kaggle/</guid>
+      <description>Hi I will share what I did in 30 Days kaggle chalanges, in 15 days is course program, and last 15 days is kaggle competition
+Day 1 : Set up Kaggle account
+Set up kaggle account level up badge from novice to contributor  Level up to contributor need to did several task such as join competitions and submit, did discussion by comment in people notebook.
+Day 2 : Python Programming</description>
+    </item>
+    
+    <item>
+      <title>Project 6: HR analysis and turn over prediction</title>
+      <link>https://mushabo101.github.io/datascience/post/project-6hr-analysis/</link>
+      <pubDate>Thu, 12 Aug 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://mushabo101.github.io/datascience/post/project-6hr-analysis/</guid>
+      <description>Problem Statement: Predict the probability of a candidate looking for a new job
+Essentially, I&amp;rsquo;ll be attempting to predict who is job-seeking and who is not.
+Note - The main focus of this notebook is on data visualization so the predictive models can almost certainly be improved upon with some basic tweaks.
+Remember though, in industry it is difficult to deploy models that take hours to retrain daily. A good model is often better - and more practical - than a perfect one.</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Bike Sharing Rental Prediction (Purwadhika Bootcamp Project)</title>
+      <link>https://mushabo101.github.io/datascience/post/project-5bike-sharing-rental-prediction-copy/</link>
+      <pubDate>Mon, 12 Jul 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://mushabo101.github.io/datascience/post/project-5bike-sharing-rental-prediction-copy/</guid>
+      <description>In this project, I would gladly use this dataset from Capital Bikeshare to analyze and provide enhancement to their business. The bike-sharing rental process is highly correlated to the environmental and seasonal settings. For instance, weather conditions, precipitation, day of the week, season, an hour of the day, etc. can affect the rental behaviors. The core data set is related to the two-year historical log corresponding to the years 2011 and 2012 from Capital Bikeshare system, Washington D.</description>
+    </item>
+    
+    <item>
+      <title>Project 4 : Mercedes CC Class Price Prediction</title>
+      <link>https://mushabo101.github.io/datascience/post/project-4-mercedes-cc/</link>
+      <pubDate>Sun, 20 Jun 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://mushabo101.github.io/datascience/post/project-4-mercedes-cc/</guid>
+      <description>Case Study: UK Used CClass Cars Question: The dataset used is a list of used Mercedec CCclass cars that are traded in the United Kingdom. There are around 4,000 used CClass cars in the listing. You can learn more about this dataset on this page.
+The business objective to be achieved is to predict the price of a used Mercedec CCclass car, with the following specifications: mileage, transmission, engines size, fuel</description>
+    </item>
+    
+    <item>
+      <title>Project 3 : Hotel Demand Cancel Prediction</title>
+      <link>https://mushabo101.github.io/datascience/post/project-3-hotel-demand-cancel-prediction-/</link>
+      <pubDate>Mon, 14 Jun 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://mushabo101.github.io/datascience/post/project-3-hotel-demand-cancel-prediction-/</guid>
+      <description>In the hospitality business, ensuring the availability of hotel rooms at a time and for some time to come is very important in optimizing revenue. Information regarding accurate and actual room availability can prevent the hotel from various losses, such as losses caused by guests who cancel orders or do not check in on their arrival. Guests who cancel their stay, either after notifying the hotel in advance (eg contacting themselves or being contacted by the hotel) or not, cause vacancies in the rooms they should be staying in.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Twitter Sentiment Analysis</title>
+      <link>https://mushabo101.github.io/datascience/post/project-2-twitter-sentiment-analysis/</link>
+      <pubDate>Wed, 14 Apr 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://mushabo101.github.io/datascience/post/project-2-twitter-sentiment-analysis/</guid>
+      <description>Nowdays we no longer difficult to know what people think about a topic which is trends, we can analysing the tweets on twitter.
+The tweets have a sentiment, positive or negative sentiment use cases for NLP (Natural Language Processing).
+In this porject I am going to use NLP with &amp;ldquo;Tweepy&amp;rdquo; library in Python to access our Twitteer API, to start you have to register a twitter developer account.
+The tweet was about Bitcoin.</description>
+    </item>
+    
+    <item>
+      <title>Project 1 : Crypto Prediction</title>
+      <link>https://mushabo101.github.io/datascience/post/project-1-simple-crypto-prediction/</link>
+      <pubDate>Fri, 09 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://mushabo101.github.io/datascience/post/project-1-simple-crypto-prediction/</guid>
+      <description>This project only for fun and education not financial advice.
+Nowdays cryptocurrency more popullar thank stocks, forex, and any exchange Cryptocurrency is very volatile assets/price, technical, news, sentiment drive the price.
+I just try Machine Learning to predict price of cryptocurrency such as :
+ Bitcoin Ethereum (ETH) Cardano (ADA), Binance (BNB) the most popullar and top marketcap.  Datasets cryptocurrency as historical data can find at : https://www.coingecko.com/en
+ We can choose any cryptocurrency and download dataset in CSV files.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://mushabo101.github.io/datascience/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mushabo101.github.io/datascience/contact/</guid>
+      <description>Email: muhsrrohman@gmail.com
+Linkedin : https://www.linkedin.com/in/muhammad-saepurrohman-96a90a191/</description>
+    </item>
+    
+  </channel>
+</rss>

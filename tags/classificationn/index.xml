@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classificationn on Muhammad Saepurrohman</title>
+    <link>https://mushabo101.github.io/datascience/tags/classificationn/</link>
+    <description>Recent content in Classificationn on Muhammad Saepurrohman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Aug 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://mushabo101.github.io/datascience/tags/classificationn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 6: HR analysis and turn over prediction</title>
+      <link>https://mushabo101.github.io/datascience/post/project-6hr-analysis/</link>
+      <pubDate>Thu, 12 Aug 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://mushabo101.github.io/datascience/post/project-6hr-analysis/</guid>
+      <description>Problem Statement: Predict the probability of a candidate looking for a new job
+Essentially, I&amp;rsquo;ll be attempting to predict who is job-seeking and who is not.
+Note - The main focus of this notebook is on data visualization so the predictive models can almost certainly be improved upon with some basic tweaks.
+Remember though, in industry it is difficult to deploy models that take hours to retrain daily. A good model is often better - and more practical - than a perfect one.</description>
+    </item>
+    
+    <item>
+      <title>Project 3 : Hotel Demand Cancel Prediction</title>
+      <link>https://mushabo101.github.io/datascience/post/project-3-hotel-demand-cancel-prediction-/</link>
+      <pubDate>Mon, 14 Jun 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://mushabo101.github.io/datascience/post/project-3-hotel-demand-cancel-prediction-/</guid>
+      <description>In the hospitality business, ensuring the availability of hotel rooms at a time and for some time to come is very important in optimizing revenue. Information regarding accurate and actual room availability can prevent the hotel from various losses, such as losses caused by guests who cancel orders or do not check in on their arrival. Guests who cancel their stay, either after notifying the hotel in advance (eg contacting themselves or being contacted by the hotel) or not, cause vacancies in the rooms they should be staying in.</description>
+    </item>
+    
+  </channel>
+</rss>

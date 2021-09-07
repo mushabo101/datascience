@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>staking on Muhammad Saepurrohman</title>
+    <link>https://mushabo101.github.io/datascience/tags/staking/</link>
+    <description>Recent content in staking on Muhammad Saepurrohman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Sep 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://mushabo101.github.io/datascience/tags/staking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>30 Days Machine Learning, Finish in Top 3% From More Than 7000 Participants</title>
+      <link>https://mushabo101.github.io/datascience/post/30-days-machine-learning-kaggle/</link>
+      <pubDate>Wed, 01 Sep 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://mushabo101.github.io/datascience/post/30-days-machine-learning-kaggle/</guid>
+      <description>Hi I will share what I did in 30 Days kaggle chalanges, in 15 days is course program, and last 15 days is kaggle competition
+Day 1 : Set up Kaggle account
+Set up kaggle account level up badge from novice to contributor  Level up to contributor need to did several task such as join competitions and submit, did discussion by comment in people notebook.
+Day 2 : Python Programming</description>
+    </item>
+    
+    <item>
+      <title>Project 6: HR analysis and turn over prediction</title>
+      <link>https://mushabo101.github.io/datascience/post/project-6hr-analysis/</link>
+      <pubDate>Thu, 12 Aug 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://mushabo101.github.io/datascience/post/project-6hr-analysis/</guid>
+      <description>Problem Statement: Predict the probability of a candidate looking for a new job
+Essentially, I&amp;rsquo;ll be attempting to predict who is job-seeking and who is not.
+Note - The main focus of this notebook is on data visualization so the predictive models can almost certainly be improved upon with some basic tweaks.
+Remember though, in industry it is difficult to deploy models that take hours to retrain daily. A good model is often better - and more practical - than a perfect one.</description>
+    </item>
+    
+  </channel>
+</rss>

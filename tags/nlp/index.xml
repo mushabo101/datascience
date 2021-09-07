@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP on Muhammad Saepurrohman</title>
+    <link>https://mushabo101.github.io/datascience/tags/nlp/</link>
+    <description>Recent content in NLP on Muhammad Saepurrohman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Apr 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://mushabo101.github.io/datascience/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: Twitter Sentiment Analysis</title>
+      <link>https://mushabo101.github.io/datascience/post/project-2-twitter-sentiment-analysis/</link>
+      <pubDate>Wed, 14 Apr 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://mushabo101.github.io/datascience/post/project-2-twitter-sentiment-analysis/</guid>
+      <description>Nowdays we no longer difficult to know what people think about a topic which is trends, we can analysing the tweets on twitter.
+The tweets have a sentiment, positive or negative sentiment use cases for NLP (Natural Language Processing).
+In this porject I am going to use NLP with &amp;ldquo;Tweepy&amp;rdquo; library in Python to access our Twitteer API, to start you have to register a twitter developer account.
+The tweet was about Bitcoin.</description>
+    </item>
+    
+  </channel>
+</rss>
